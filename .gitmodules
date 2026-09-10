@@ -1,0 +1,3 @@
+[submodule "mecha"]
+	path = mecha
+	url = https://github.com/mechasource/mechcommander2.git
